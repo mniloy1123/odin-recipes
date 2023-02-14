@@ -1,0 +1,28 @@
+.recipeOne {
+    color: beige;
+    background-color: plum;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    text-align: center;
+}
+.recipeTwo {
+    color: beige;
+    background-color: rgb(163, 17, 203);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    text-align: center;
+}
+.recipeThree {
+    color: beige;
+    background-color: skyblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    text-align: center;
+}
+
+.heading {
+    color: #7b68ee;
+    background-color: peachpuff;
+    text-align: center;
+}
+
